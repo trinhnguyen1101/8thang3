@@ -176,7 +176,7 @@ const HeartAnimation: React.FC<HeartAnimationProps> = ({ onClick, visible }) => 
       </div>
       
       <div className="absolute left-1/2 top-1/2 -z-10 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96">
-        <div className="absolute inset-0 rounded-full border-4 border-dashed border-celebration-accent/40 animate-spin-slow"></div>
+
         <div className="absolute inset-0 rounded-full border-4 border-dotted border-yellow-300/30 animate-spin-slow" style={{animationDirection: 'reverse', animationDuration: '15s'}}></div>
       </div>
       

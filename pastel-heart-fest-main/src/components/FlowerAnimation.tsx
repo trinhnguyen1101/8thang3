@@ -160,6 +160,11 @@ const FlowerAnimation: React.FC<FlowerAnimationProps> = ({ onClick, visible }) =
       <div className="absolute left-1/2 top-1/2 -z-10 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96">
         <div className="absolute inset-0 rounded-full border-4 border-dashed border-celebration-accent/30 animate-spin-slow" />
         <div className="absolute inset-0 rounded-full border-4 border-dashed border-celebration-softPink/50 animate-spin-slow" style={{ animationDirection: 'reverse', animationDuration: '15s' }} />
+        <img 
+      src="https://www.thepoetmagazine.org/wp-content/uploads/2024/06/anh-meo-tang-hoa-meme.jpg" 
+      alt="Mèo tặng hoa" 
+      className="w-full h-full object-cover rounded-full"
+    />
         <div className="absolute inset-0 rounded-full border-2 border-dotted border-yellow-300/40 animate-spin-slow" style={{ animationDuration: '20s' }} />
         <div className="absolute inset-0 rounded-full border-2 border-dotted border-purple-300/40 animate-spin-slow" style={{ animationDuration: '25s', animationDirection: 'reverse' }} />
       </div>
