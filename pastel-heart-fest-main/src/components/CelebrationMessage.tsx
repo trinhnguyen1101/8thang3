@@ -151,27 +151,23 @@ const CelebrationMessage: React.FC<CelebrationMessageProps> = ({ visible }) => {
       <div className="relative z-10">
         <h1 className="celebration-title flex items-center justify-center gap-2">
           <Sparkles className="h-8 w-8 animate-pulse text-yellow-400" />
-          Chúc Mừng Ngày 8/3 Nhaaaaaa
+          Chúc Mừng Ngày 8/3 yayyyy
           <Sparkles className="h-8 w-8 animate-pulse text-yellow-400" />
         </h1>
         
         <div className="text-center space-y-4">
           <p className="text-xl text-celebration-accent/90 font-medium">
-            Gửi đến chị gái coser
+            Gửi đến mẹ với e gái
           </p>
           
           <p className="text-gray-600 leading-relaxed">
-            Chúc chị càng ngày càng xinh, với cả hết gặp "tai nạn nghề nhiệp" 
+            Chúc mẹ với Trúc càng ngày càng xinh đẹp nhá
             
-          </p>
-          <p className="text-gray-600 leading-relaxed">
-      
-            Cảm ơn chị nhìu nhìu 
           </p>
           
           <div className="py-3">
             <span className="inline-block px-4 py-2 rounded-full bg-celebration-accent/10 text-celebration-accent font-medium text-lg animate-pulse">
-              ✨ Chúc chị ngày 8/3 dui dẻeeeee ✨
+              ✨ Tám tháng bar dui dẻeeeee ✨
             </span>
           </div>
           
